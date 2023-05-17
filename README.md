@@ -1,5 +1,5 @@
 # Interface_Master
-This project is make to make and arrange various interfaces (Student management, Vehicle Management, Hospital management, etc.). 
+This project is made to andarrange the various interfaces (Student management, Vehicle Management, Hospital management, etc.). 
 
 # Interface_Master
 I have created this project for my College work. In this project, you have to choose the interface (Student, Vehicle, Hospital, etc.) Management System. Used Python and SQL for interface and database.
